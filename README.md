@@ -5,25 +5,6 @@ This repository contains solutions, configurations, and notes for Terraform‑ba
 
 The goal of this repository is to provide clean, well‑documented examples that demonstrate best practices in Infrastructure as Code (IaC), including modular design, state management, and environment‑specific configuration.
 
-📁 Repository Structureterraform-kke/
-│
-├── task1/
-│   ├── main.tf
-│   ├── provider.tf
-│   ├── README.md
-│
-├── task2/
-│   ├── main.tf
-│   ├── variables.tf
-│   ├── outputs.tf
-│   ├── README.md
-│
-├── task3/
-│   ├── main.tf
-│   ├── README.md
-│
-└── ...
-
 Each task folder contains:
 
 1. Terraform configuration files (main.tf, provider.tf, etc.)
